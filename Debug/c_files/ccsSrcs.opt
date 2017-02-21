@@ -1,0 +1,1 @@
+"../c_files/AD.c" "../c_files/DA.c" "../c_files/KeyBoardDriver.c" "../c_files/LCD.c" "../c_files/clock.c" "../c_files/gpio.c" "../c_files/graph_tab.c" "../c_files/initialization.c" "../c_files/pmm.c" "../c_files/power.c" "../c_files/rtc.c" "../c_files/sfr_sys.c" "../c_files/ucs.c" "../c_files/wdt.c" 
